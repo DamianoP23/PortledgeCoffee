@@ -1,0 +1,187 @@
+/* This will style the BODY element */
+body {
+    background-color: slategrey;
+    background-image: url(images/Blue_Bottle\,_Kyoto_Style_Ice_Coffee_\(5909775445\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/* This will style the wrapper class to center the content  */
+.wrapper {
+    /* background-color: navy; */
+    width: 1024px;
+    min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* This will style the HEADER where the logo will go */
+header {
+    /* background-color: darkcyan; */
+    min-height: 120px;
+}
+
+/* Style the Logo */
+.logoimage {
+    height: 120px;
+}
+
+/* This will style the NAV for links to other pages */
+nav {
+    background-color: rgba(89, 164, 167, 0.399);
+    min-height: 45px;
+    text-align: center;
+    padding-top: 14px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Style the links to other pages */
+
+/* Style the MAIN */
+main {
+    /* background-color: darkorange; */
+    min-height: 400px;
+    text-align: center;
+    padding-top: 16px;
+    padding-right: 240px;
+    padding-left: 240px;
+}
+
+/* Style the h1 to enlarge the font and make it pop off the pag */
+main h1 {
+    font-size: 60px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 2px yellow;
+}
+
+/* Do this for the h2: set the font size to 50px, change the color to white, pick a foont family of your choice, add a text shadow */
+
+main h2 {
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 2px yellow;
+
+}
+
+/* Do this for the p: set the size to 18px, change the color to rgba(249, 11, 93, 1), change the font family, and also add a text shadow */
+
+main p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 2px black;
+    color: whitesmoke;
+}
+
+.portledgeLink {
+    color: lightblue;
+}
+
+/* Style the Map class */
+.map {
+    /* background-color: gold; */
+    min-height: 200px;
+    text-align: center;
+}
+
+/* This will style the FOOTER  */
+footer {
+    background-color: rgba(43, 186, 242, 0.339);
+    min-height: 75px;
+}
+
+footer p {
+    color: whitesmoke;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 16px;
+}
+
+.ContactH1 {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-shadow: 2px 2px 2px yellow;
+}
+
+.ContactH2 {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.pContactus {
+    background-color: rgba(89, 164, 167, 0.399);
+    min-height: 45px;
+    text-align: auto;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.Par2 {
+    font-size: 30px;
+    width: 80%;
+    margin: 50px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-shadow: 2px 2px 2px black;
+
+
+    border: 0cm;
+}
+
+.contact-right {
+    background: rgba(0, 0, 139, 0.376);
+    padding: 40px 60px;
+    color: whitesmoke;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 40%;
+    margin: 60px auto;
+
+}
+
+.contact-left {
+    background: rgba(0, 0, 139, 0.376);
+    padding: 40px;
+    color: whitesmoke;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 40%;
+    margin: 60px auto;
+    padding-top: 30px;
+
+
+}
+
+footer {
+    background-color: rgba(43, 186, 242, 0.339);
+    min-height: 75px;
+}
+
+.Pictureimage {
+    height: 500px;
+    margin: 50px auto;
+}
+
+.CHbackground {
+    background-color: slategrey;
+    background-image: url(images/Coffee_beans2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
